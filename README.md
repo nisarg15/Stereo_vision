@@ -1,14 +1,21 @@
-# Project 3 
+# Output
+depth gray
+![deapth gray 1](https://github.com/nisarg15/Stereo_vision/assets/89348092/22ee0f70-96f8-4be1-bf8d-0a72e3fed34e)
+depth heat 
+![deapth heat 1](https://github.com/nisarg15/Stereo_vision/assets/89348092/9217d9ce-a135-4958-9980-8cbc68843826)
+disparity gray 
+![disparity gray 1](https://github.com/nisarg15/Stereo_vision/assets/89348092/830d6af8-37d1-43cb-94d3-7b8861b156a5)
+disparity heat
+![disparity heat 1](https://github.com/nisarg15/Stereo_vision/assets/89348092/bcf3f27c-254f-40be-9364-3f1d055ceb4b)
+Rectification
+![Rectification 1](https://github.com/nisarg15/Stereo_vision/assets/89348092/0d1860c9-7548-4a50-a67b-76d9f79e1a6f)
 
-## Introduction 
-  	This file includes python program solution for Project 3 for
-	UMD ENPM 673 Spring 2022 batch. The folders consists of python
-	program along with some gedata set to test.
-	
-	These files are executable:
-		main.py
 
-  
+
+
+
+
+
 ## Requirements
        ***Important*****************************************************
        *Change the path for the input images for cv2.read*
@@ -16,7 +23,7 @@
        *Code takes time run like around 20 min*
        *****************************************************************
        
-### To run this code following libraries are required
+### To run this code, the following libraries are required
 * OpenCV  
 * NumPy
 
